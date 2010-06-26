@@ -1,9 +1,9 @@
- <!doctype html>
+<!doctype html>
 <html lang="{lang:}">
     <!--
 	********************************************************************************
 
-	Personal website of Daniel Senff
+	1000lux website of Daniel Senff
 
 	********************************************************************************
     -->
@@ -19,30 +19,33 @@
       <link href="{relocatable: /stylesheets/ie.css}" media="screen, projection" rel="stylesheet" type="text/css" />
     <![endif]-->
 
-    <title>{title:}</title>
+    <title>1000LUX: {title:}</title>
   </head>
 
   <body>
-    <div id="main">
+    <div id="container">
       <header>
-        <h1>Website Title</h1>
-        <h2>your website slogan</h2>
-        
-        <nav id="menu">
-          {menu: {max_levels: 1, used_nodes: files}}
-        </nav>  
+        <h1><a href="http://1000lux.unmedial.de/"><span>1000LUX</span></a></h1>
+        <h2>Geschichten aus Luxemburg</h2>
       </header>
-      
+			
+			<nav id="left">
+        {menu: {max_levels: 2, used_nodes: files}}
+        <h3>Links:</h3>
+        <ul>
+          <li><a href="http://www.unmedial.de">Blog</a></li>
+          <li><a href="http://www.twitter.com/Dahie">Twitter</a></li>
+        </ul>
+		  </nav>  
 
-      <h3>Links:</h3>
-      <ul>
-        <li><a href="http://www.unmedial.de">Blog</a></li>
-        <li><a href="http://www.twitter.com/Dahie">Twitter</a></li>
-      </ul>
-
-    <section id="content">
-      <webgen:block name="content" />
-
-    </section>
+			<section id="content" class="post">
+				<webgen:block name="content" />
+			</section>
+			
+			<footer>
+			  <p><a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/de/"><img alt="Creative Commons Lizenzvertrag" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/3.0/de/88x31.png" /></a><span xmlns:dc="http://purl.org/dc/elements/1.1/" href="http://purl.org/dc/dcmitype/Text" property="dc:title" rel="dc:type">Texte und Bilder auf 1000Lux</span> von <a xmlns:cc="http://creativecommons.org/ns#" href="http://www.danielsenff.de.de" property="cc:attributionName" rel="cc:attributionURL">Daniel Senff</a> stehen unter einer<br>
+				<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/de/">Creative Commons Namensnennung-Nicht-kommerziell-Weitergabe unter gleichen Bedingungen 3.0 Deutschland Lizenz</a>.</p>
+			</footer>
+		</div>
   </body>
 </html>
