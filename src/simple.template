@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="{lang:}">
+    <!--
+	********************************************************************************
+
+	1000lux website of Daniel Senff
+
+	********************************************************************************
+    -->
+  <head>
+    <meta charset="utf-8">
+    <meta name="description" content="description goes here" />
+    <meta name="keywords" content="Daniel, Dahie, Senff, Java, Rails, HTML, CTDP" />
+    <meta name="author" content="Daniel Senff" />
+    <meta name="generator" content="webgen - http://webgen.rubyforge.org" />
+    <link href="{relocatable: /stylesheets/screen.css}" media="screen, projection" rel="stylesheet" type="text/css" />
+    <link href="{relocatable: /stylesheets/print.css}" media="print" rel="stylesheet" type="text/css" />
+    <!--[if IE]>
+      <link href="{relocatable: /stylesheets/ie.css}" media="screen, projection" rel="stylesheet" type="text/css" />
+    <![endif]-->
+
+    <title>1000LUX: {title:}</title>
+  </head>
+
+  <body>
+    <div id="container">
+      <header>
+        <h1><a href="http://1000lux.unmedial.de/"><span>1000LUX</span></a></h1>
+        <h2>Geschichten aus Luxemburg</h2>
+      </header>
+			
+
+			<section id="content" class="post">
+				<webgen:block name="content" />
+			</section>
+			
+			<footer>
+			  <p><a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/de/"><img alt="Creative Commons Lizenzvertrag" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/3.0/de/88x31.png" /></a><span xmlns:dc="http://purl.org/dc/elements/1.1/" href="http://purl.org/dc/dcmitype/Text" property="dc:title" rel="dc:type">Texte und Bilder auf 1000Lux</span> von <a xmlns:cc="http://creativecommons.org/ns#" href="http://www.danielsenff.de.de" property="cc:attributionName" rel="cc:attributionURL">Daniel Senff</a> stehen unter einer<br>
+				<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/de/">Creative Commons Namensnennung-Nicht-kommerziell-Weitergabe unter gleichen Bedingungen 3.0 Deutschland Lizenz</a>.</p>
+			</footer>
+		</div>
+  </body>
+</html>
