@@ -1,6 +1,7 @@
 ---
-title: Home
+title: Startseite
 in_menu: true
+sort_info: 1
 ---
 
 h2. Texte
@@ -14,7 +15,7 @@ Pareidolia und deren Auswirkungen auf eine reiselustige Seele.
 <div class="post_entry">
 h3. {link: /sinatra.html}
 
-
+Beschreibt, warum eine schlechte Bahnverbindung zu vorzeitlichen Altersdepressionen führen kann.
 </div>
 
 <div class="post_entry">
@@ -40,6 +41,7 @@ h3. {link: /kleine-helden.html}
 
 Charakterisiert Selbstüberwindung Helden, dann sind dies welche.
 </div>
+
 <div class="post_entry">
 h3. {link: /papierinvasion.html}
 
@@ -61,6 +63,7 @@ Traurige Sektiererteens als Opfer ihrer eigenen Jugend.
 <div class="post_entry">
 h3. {link: /decadentia.html}
 
+Öffentliche Ausbeutung unschuldiger iMacs an den Pranger gestellt.
 </div>
 
 <div class="post_entry">

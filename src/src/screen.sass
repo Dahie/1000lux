@@ -1,3 +1,7 @@
+$orange: #e8ca8e
+$darkgrey: #333
+$brightgrey: #ddd
+
 /* basics
 
 .aligncenter
@@ -12,7 +16,7 @@
   float: right
 
 .wp-caption
-  border: 1px solid #ddd
+  border: 1px solid $darkgrey
   text-align: center
   background-color: #cccccc
   padding-top: 4px
@@ -33,8 +37,8 @@
   margin: 0
 
 body
-  background: #e8ca8e
-  font-family: Verdana, arial, tahoma, sans-serif
+  background: $orange
+  font-family: Verdana, arial, Helvetica, sans-serif
   font-size: 8pt
   margin: 0px
 
@@ -42,11 +46,12 @@ h1
   font-size: 18pt
 
 h2
-  font-size: 14pt
+  font-size: 16pt
   clear: both
+  font-weight: normal
 
 h3
-  font-size: 10pt
+  font-size: 12pt
 
 h4
   font-size: 9pt
@@ -60,10 +65,6 @@ img
   a
     border: none
 
-ol, ul, li
-  list-style: none
-  list-style-type: none
-
 img
   &.left
     float: left
@@ -75,7 +76,7 @@ img
     padding: 0 0 0 6px
 
 blockquote
-  border-left: 1px solid #A5ABAB
+  border-left: 1px solid $brightgrey
   margin: 15px
   padding: 0 12px 0 12px
 
@@ -86,10 +87,10 @@ code
 
 a
   font-weight: bold
-  color: #4b4c4d
-  text-decoration: none
+  color: $darkgrey
+  text-decoration: underline
   &:hover
-    color: #990000
+    color: $orange
     text-decoration: underline
 
 /* container
@@ -99,8 +100,8 @@ a
   margin: 0 auto
   padding: 0
   background: #fff
-  border-left: 5px solid black
-  border-right: 5px solid black
+  border-left: 5px solid $darkgrey
+  border-right: 5px solid $darkgrey
   color: #333
   overflow: hidden
 
@@ -113,7 +114,7 @@ header
   height: 153px
   color: #fff
   padding-top: 97px
-  border-bottom: 9x solid #333333
+  border-bottom: 9x solid $darkgrey
   h1
     display: block
     float: right
@@ -127,7 +128,7 @@ header
       width: 704px
       height: 153px
       background: url(../images/1000luxh.png) no-repeat
-      color: #e8ca8e
+      color: $orange
       text-decoration: none
       text-transform: uppercase
       &:hover
@@ -135,7 +136,7 @@ header
         text-decoration: none
   h2
     font: normal 10pt Verdana, georgia, times
-    color: #e8ca8e
+    color: $orange
     padding: 0 0 0 18px
     margin: 0
     display: none
@@ -153,7 +154,6 @@ header
   padding: 0
   line-height: 14pt
   h2
-    font: normal 14px Verdana, Arial, Helvetica, sans-serif,georgia, times
     a
       color: #000
       text-decoration: none
@@ -207,17 +207,17 @@ header
   padding: 0
   overflow: auto
   border:
-    right: 1px solid #ddd
-    bottom: 1px solid #ddd
-  h2
+    right: 1px solid $brightgrey
+    bottom: 1px solid $brightgrey
+  h3
     font: bold 11pt arial, georgia, times
     color: #000
     margin: 0
     padding: 0
-    border-bottom: 1px solid #CCCCCC
-  p
-    margin: 0
-    padding: 0
+    border-bottom: 1px solid $brightgrey
+    margin: 0px 18px 
+  a
+    text-decoration: none
   img
     padding: 0
     margin: 0
@@ -226,10 +226,10 @@ header
     padding: 0
     list-style-type: none
     li
-      font: bold 11pt arial, georgia, times
-      color: #333
+      font: bold 10pt arial, georgia, times
+      color: $darkgrey
       margin: 0
-      padding: 0
+      padding: 3px 0
       line-height: 14pt
       list-style-type: none
       ul
@@ -237,17 +237,7 @@ header
         list-style-type: none
         li
           list-style-type: none
-          font: bold 10pt arial, georgia, times
           border: none
-          ul
-            margin: 14px 0
-            padding: 0
-            list-style-type: none
-            li
-              padding: 0 0 0 15px
-              list-style-type: square
-              color: #898989
-              list-style-type: none
 
 cite
   font-family: arial, verdana, tahoma
@@ -305,7 +295,7 @@ img
 /* footer
 
 footer
-  background: #4b4c4d
+  background: $darkgrey
   clear: both
   display: block
   width: 100%
