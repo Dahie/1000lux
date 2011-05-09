@@ -13,6 +13,7 @@
     <meta name="keywords" content="Daniel, Dahie, Senff, Java, Rails, HTML, CTDP" />
     <meta name="author" content="Daniel Senff" />
     <meta name="generator" content="webgen - http://webgen.rubyforge.org" />
+    <link rel="author" href="{relocatable: /humans.txt}" />
     <link href="{relocatable: /stylesheets/screen.css}" media="screen, projection" rel="stylesheet" type="text/css" />
     <link href="{relocatable: /stylesheets/print.css}" media="print" rel="stylesheet" type="text/css" />
     <!--[if IE]>

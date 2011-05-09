@@ -1,0 +1,16 @@
+/* TEAM */
+
+Author: Daniel Senff
+Contact: public [at] danielsenff.de, http://www.danielsenff.de
+Twitter: @dahie
+From: Berlin, Germany
+
+/* THANKS */
+Name: Friedrich Maiwald, werter Mitbewohner
+
+/* SITE */
+
+Language: German, English
+Standards: HTML5, CSS3
+Tools: webgen, compass
+Software: komodo, vim

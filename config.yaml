@@ -5,10 +5,6 @@
 #
 #   configuration.option.name: value
 #
-# For example, to set a different default language, you would do:
-#
-#   website.lang: de
-#
 # Have a look at the documentation of the individual configuration options to see the allowed format
 # of the values. Since this is a YAML file, you can easily set configuration options as strings,
 # integers, dates, arrays, hashes and more.
@@ -32,5 +28,5 @@ website.lang: de
 ## Adding some extensions to the copy source handler.
 patterns:
   Copy:
-    add: [**/*.pdf, **/*.djvu]
+    add: [**/*.pdf, **/*.txt, **/*.djvu]
     del: [**/*.sass, **/*.rb]    
