@@ -30,16 +30,20 @@
         <h2>Geschichten aus Luxemburg</h2>
       </header>
 			
-			<nav id="left">
+	  <nav id="left">
         {menu: {max_levels: 2, used_nodes: files}}
         <h3>Links:</h3>
         <ul>
           <li><a href="http://www.unmedial.de">Blog</a></li>
           <li><a href="http://www.twitter.com/Dahie">Twitter</a></li>
-					<li><a href="http://www.danielsenff.de">Autor</a></li>
-					<li><a href="http://blog.friedrichmaiwald.de/">FridodeLuxemburg</a></li>
+		  <li><a href="http://www.danielsenff.de">Autor</a></li>
+		  <li><a href="http://blog.friedrichmaiwald.de/">FridodeLuxemburg</a></li>
         </ul>
-		  </nav>  
+        <h3>Unterstützen:</h3>
+        <ul>
+          <li><a href="http://flattr.com/thing/413322/1000LUX" target="_blank">
+          <img src="http://api.flattr.com/button/flattr-badge-large.png" alt="Flattr this" title="Flattr this" border="0" /></a></li></ul>
+	</nav>
 
 			<section id="content" class="post">
 				<webgen:block name="content" />
