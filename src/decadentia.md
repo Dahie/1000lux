@@ -2,8 +2,6 @@
 title: dēcadentia
 layout: page
 ---
-## dēcadentia
-
 Manchmal gibt es so Worte, die benutzt man und es fehlt die bildliche Vorstellung was das Wort eigentlich heißt. Dann gibt es drei Mögichkeiten. Der abnehmenden Sortierung ist eine steigende Empfehlung zugeordnet. Beziehungsweise ein sinkendes Maß der Nichtempfehung.
 
 1) Es akzeptieren und dumm beiben.

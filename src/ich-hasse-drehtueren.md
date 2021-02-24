@@ -2,8 +2,6 @@
 title: Ich hasse Drehtüren
 layout: page
 ---
-## Ich hasse Drehtüren
-
 Ich hasse Drehtüren.<br>
 Eingentlich könnte ich hier schon abbrechen, aber leider wäre es für die Internetausdrucker etwas unökologisch eine A4 Seite nur für diesen Satz zu verschwenden, auch wenn es eigentlich die ganze Quintessenz des Textes ist. Lasst mich daher an einigen Beispielen darlegen woran diese Abneigung festzumachen ist.
 

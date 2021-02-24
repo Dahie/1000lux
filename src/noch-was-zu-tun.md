@@ -2,8 +2,6 @@
 title: Noch was zu tun
 layout: page
 ---
-## Noch was zu tun
-
 Es war während meines Studiums, dass ich zu spät aus der Uni kam und meine Straßenbahn verpasste. Verdammt, dachte ich mir und wartete auf die Nächste. Die kam, hielt an, ließ mich rein, fuhr los und stoppte auf halber Strecke, weil die Bahn davor ein Taxi geknutscht hat. Die Reisenden wurden auf der Strecke rausgelassen und durften bis zur nächsten S-Bahnstation zurücklaufen.
 Die Geschichte hab ich dann gerne dramatisch erzählt. Etwa so:
 

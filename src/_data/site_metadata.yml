@@ -4,7 +4,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.metadata.myvariable }}.
 
-title: 1000LUX
+title: 1000LUX | Geschichten aus Luxemburg
 tagline: Geschichten aus Luxemburg
 email: public@danielsenff.de
 description: >- # this means to ignore newlines until "baseurl:"

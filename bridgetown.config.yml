@@ -20,4 +20,16 @@ url: "" # the base hostname & protocol for your site, e.g. https://example.com
 
 permalink: :title:output_ext
 
+defaults:
+  - scope:
+      path: "images"
+    values:
+      image: true
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
+
+
 # timezone: America/Los_Angeles

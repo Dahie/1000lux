@@ -2,8 +2,6 @@
 title: Marrakech
 layout: page
 ---
-## Marrakech
-
 Ich kann kein Französisch!
 Diese Erkenntnis hatte ich in der 9. Klasse als meine Note began sich von der 3 nach oben zu bewegen. Leider heißt nach oben nicht besser zu werden, sondern das Gegenteil. Die Erkenntnis blieb bis ich irgendwann die Sprache abwählen und aus meinem Alltag verbannen konnte. Die gleiche Erkenntnis holte mich Jahre später in Luxemburg wieder ein.
 

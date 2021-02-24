@@ -2,8 +2,6 @@
 title: Untertage
 layout: page
 ---
-## Untertage
-
 Ich habe so ein Glück. Ich habe frei. Das Glück ist dadurch geschmälert, dass ich nicht nur gerne frei, sondern auch vier Wände und halbwegs regelmäßiges Essen gern habe. Ich habe schon oft versucht mich dieser Sucht zu entziehen, aber bisher fehlte mir immer die Disziplin. Wenn ich mal kinder habe werde ich dafür sorge tragen, dass die nicht so weich und willensschwach durch die Welt gehen. Frei gibt’s da nicht, damit die einen freien Tag auch zu schätzen wissen.
 
 !images/mine_2.jpg!

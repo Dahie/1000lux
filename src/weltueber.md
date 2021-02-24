@@ -2,8 +2,6 @@
 title: Weltüber
 layout: page
 ---
-## Weltüber
-
 > „Die Welt steht Kopf.“
 
 In einem kurzen Moment der Klarheit wird mir meine Lage bewusst. Die Welt steht Kopf und über mir …

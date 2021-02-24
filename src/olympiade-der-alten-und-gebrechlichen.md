@@ -2,11 +2,9 @@
 title: Olympiade der Alten und Gebrechlichen
 layout: page
 ---
-## Olympiade der Alten und Gebrechlichen
-
 Ihr Kommentator ist wieder Murray Walker. Willkommen bei der Olympiade der Alten und Gebrechlichen. Auch dieses Jahr wieder mit neuen Disziplinen, alten Favoriten, wiederholte Comebacks vom Comeback und den aufgeputschtesten Leistungen 80 Jahre alter Sportgiganten. Natürlich, wie all die Jahre zuvor hat dies überhaupt gar nichts mit Sport zu tun, sondern nur ihrer Unterhaltung und unsere Gewinnmaximierung. Stolz präsentiert von SPAM.
 
-!images/cimg8092s.jpg!
+![](images/cimg8092s.jpg)
 
 Die heutige Disziplin ist der Rollstuhlabfahrtslauf der Männer. Dieses traditionsreiche Rennen wird ausgetragen an der Rue De Neudorf in Luxemburg Stadt.
 Die Strecke ist nagelneu und hat in diesem Jahr seine ersten Veranstaltungen. Es handelt sich um eine sehr verwinkelte, aber schnelle Abfahrt. Zu überwinden ist ein Höhenunterschied von knapp 2 Metern. Damit ist die Strecke eine nicht zu unterschätzende Herausforderung und auch Veteranen des Sports wie Albert Nagelfuss sagen die Strecke sei nicht zu unterschätzen. Die Steigung und verschiedene Richtungswechsel könnten gerade Neueinsteigern zu Verhängnis werden.

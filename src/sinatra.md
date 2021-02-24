@@ -2,8 +2,6 @@
 title: Sinatra
 layout: page
 ---
-## Sinatra
-
 Himmel, Kinder, was mach ich bloß.<br>
 Ich will ja überhaupt nicht meta werden. Also gleich dem Philosophen nicht über das Leben, sondern eigentlich lieber über das, was das Leben ausmacht reden. Also das will ich gerade nicht – Meta. Aber nun, das passt so wie die Faust aufs Auge, quasi oder wie die Küche um die Hüfte.
 

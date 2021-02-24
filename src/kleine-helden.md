@@ -2,8 +2,6 @@
 title: Kleine Helden
 layout: page
 ---
-## Kleine Helden
-
 Das Wörterbuch beschreibt einen Helden als jemanden, der sich besonders erfolgreich für andere einsetzt. Ein Wort, das eine ebenso glanzvolle Person beschreibt, die aber ihr Heldentum nicht nach außen richtet, sondern nach innen vollbringt finde ich gerade nicht. Diese Personen verdienen dieser Bezeichnung.
 Es mag vielleicht aus meinem Munde zynisch klingen, aber das soll es gar nicht. Dies soll frei von Sarkasmus ein melodiefreies Loblied auf ihre Leistungen sein.
 Diese Menschen stehen ihrem Dämon gegenüber, Auge um Auge und festentschlossen siegreich aus der Begegnung nach Hause zu gehen.
