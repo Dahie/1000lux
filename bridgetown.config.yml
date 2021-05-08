@@ -20,6 +20,10 @@ url: "" # the base hostname & protocol for your site, e.g. https://example.com
 
 permalink: :title:output_ext
 
+
+liquid:
+  strict_filters: true
+
 defaults:
   - scope:
       path: "images"
